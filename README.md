@@ -1,4 +1,4 @@
-![alt text](https://github.com/p-gherasim/p-gherasim/blob/main/Annotation%202023-06-16%20181905.png?raw=true)
+![Banner](https://github.com/p-gherasim/p-gherasim/blob/main/Annotation%202023-06-16%20181905.png?raw=true)
 <h1 align="center">Hi 👋, I'm p-gherasim</h1>
 <h3 align="center">A passionate frontend developer from Romania.</h3>
 
