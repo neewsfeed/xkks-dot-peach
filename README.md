@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=p-gherasim" alt="p-gherasim" /></a> </p>
 
-- 🔨 I’m currently working on a [a microkernel named `cfk`](Private Currently)
+- 🔨 I’m currently working on a [A PS/2 Keyboard Driver for (sh)REK](https://github.com/p-gherasim/REK)
 
 - 🌱 I’m currently learning **Frameworks**
 
