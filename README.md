@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm p-gherasim</h1>
-<h3 align="center">A passionate frontend developer from Romania.</h3>
+<h1 align="center">Hi 👋, I'm peach</h1>
+<h3 align="center">A passionate frontend developer from nowhere.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=p-gherasim&label=Profile%20views&color=0e75b6&style=flat" alt="p-gherasim" /> </p>
 
